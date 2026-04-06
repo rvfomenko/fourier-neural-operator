@@ -1,1 +1,6 @@
-
+__pycache__/
+data/
+outputs/
+project/
+/__init__
+*.pyc

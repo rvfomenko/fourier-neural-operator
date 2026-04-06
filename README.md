@@ -1,4 +1,4 @@
-# Fourier Neural Operator: A reproduction
+# How to solve PDE's in Fourier Space using Fourier Neural Operators
 This repository contains a limited reproduction of Li et al. (2020), *Fourier Neural Operator for Parametric Partial Differential Equations*, together with a few extensions for the 2-dimensional Darcy Flow scenario.
 
 Main experiments present in this repo:
